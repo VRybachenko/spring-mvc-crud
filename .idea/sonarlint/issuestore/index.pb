@@ -1,19 +1,11 @@
 
 `
 0src/main/webapp/WEB-INF/views/first/goodbye.html,d/5/d51ab06dbc702eb933e6f2c243d26c647892e7d8
-x
-Hsrc/main/java/spring/mvc/course/config/controllers/SecondController.java,5/1/51bff00b61684b9654ba039e0a04370001a8f4b1
 ^
 .src/main/webapp/WEB-INF/views/second/exit.html,8/6/86c85c7f48399a46de70bd7f0021446be98f0b76
 ^
 .src/main/webapp/WEB-INF/views/first/hello.html,5/3/538dc38d9042c849acc4242af9a059216940f90c
 c
 3src/main/webapp/WEB-INF/views/first/calcutator.html,0/f/0f0389c20b0b40a2a0b0199c04ecb8fe407e254e
-7
-pom.xml,4/4/442292b8a7efeabbe4cc176709b833b1792140ec
-ƒ
-Ssrc/main/java/spring/mvc/course/config/MySpringMvcDispatcherServletInitializer.java,a/5/a5014e38b464b86213a360aaf823c7b957f5b21b
 h
 8src/main/java/spring/mvc/course/config/SpringConfig.java,b/4/b4964278ed872d9d8fcc64a54b56c22dba73eac0
-w
-Gsrc/main/java/spring/mvc/course/config/controllers/FirstController.java,1/a/1ae6637b2f63a1b38af31b3f3612f50fe9ac6778
